@@ -7,3 +7,7 @@ can be clustered into similar clusters. By looking at each cluster, the most pop
 more popular.
 
 
+## Data
+The data on neighborhoods in Toronto was scraped from a Wikipedia page. A csv file containing Geospatial Coordinates of the neighborhoods were used to get latitude and longitude
+coordinates for each neighborhood. Using the Foursquare API, the venues around each neighborhood using the coordinates are used to compile a list of venues within 500
+meters of each neighborhood.
