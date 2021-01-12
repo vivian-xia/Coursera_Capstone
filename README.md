@@ -7,5 +7,5 @@ Massachusetts is the fifteenth most populous state. By comparing the towns and t
 The list of towns in Massachusetts was scraped from a Wikipedia page. The list of latitude and longitude points of the state and each town were found through the Google Maps Geocoding API. The venues within a 500-meter radius of each town were found through the Foursquare API. 
 
 
-Refer to "Clustering Towns in Massachusetts By Venues.ipynb" or the following link for Notebook: https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e68eccf2-30ec-402c-a4fe-966bf0fb40b4/view?access_token=ce920b31aa5569ff817e81b0feada7712ced4592a9d4c162895c080629f71d62
+Refer to [Clustering Towns in Massachusetts By Venues.ipynb](https://github.com/vivian-xia/Coursera_Capstone/blob/master/Clustering%20Towns%20in%20Massachusetts%20By%20Venues.ipynb) or the following link for Notebook: https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e68eccf2-30ec-402c-a4fe-966bf0fb40b4/view?access_token=ce920b31aa5569ff817e81b0feada7712ced4592a9d4c162895c080629f71d62
 
