@@ -1,13 +1,7 @@
-# Coursera_Capstone
-Coursera Applied Data Science Capstone
+# Segmenting and Clustering Towns in Massachusetts
 
-## Introduction/Business Problem
-The City of Toronto is composed of many neighborhoods. Some neighborhoods are more popular than others. By comparing neighborhoods and the venues around each, the neighborhoods
-can be clustered into similar clusters. By looking at each cluster, the most popular venues for each neighborhood in each cluster will help to determine which venues make neighborhoods
-more popular.
-
+## Introduction
+Massachusetts is the fifteenth most populous state. By comparing the towns and the venues around each, the towns can be clustered by similar and popular venues frequented. This project aims to segment and cluster similar towns based on venues in Massachusetts. The types of venues that are frequented the most in each town are used to cluster towns with one another. The project will locate towns that are similar to other towns and their amenities to allow for a more informed decision on where to move to or stay. 
 
 ## Data
-The data on neighborhoods in Toronto was scraped from a Wikipedia page. A csv file containing Geospatial Coordinates of the neighborhoods were used to get latitude and longitude
-coordinates for each neighborhood. Using the Foursquare API, the venues around each neighborhood using the coordinates are used to compile a list of venues within 500
-meters of each neighborhood.
+The list of towns in Massachusetts was scraped from a Wikipedia page. The list of latitude and longitude points of the state and each town were found through the Google Maps Geocoding API. The venues within a 500-meter radius of each town were found through the Foursquare API. 
