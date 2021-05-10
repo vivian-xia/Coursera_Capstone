@@ -10,6 +10,7 @@ The list of towns in Massachusetts was scraped from a [Wikipedia page](https://e
 Refer to [Clustering Towns in Massachusetts By Venues.ipynb](https://github.com/vivian-xia/Segmenting_and_Clustering_Towns_in_MA/blob/master/Segmenting%20and%20Clustering%20Towns%20in%20Massachusetts.ipynb) for Notebook.
 
 ## Conclusion
-The towns were segmented into six clusters based on similar venues. The image below shows the result of the clustering organized by color. 
+The towns were segmented into six clusters based on similar venues. The image below shows the result of the clustering organized by color. Refer to [
+
 
 <img width="980" alt="Screen Shot 2021-05-09 at 5 23 36 PM" src="https://user-images.githubusercontent.com/71834450/117587324-5c766c00-b0eb-11eb-84a9-dcbf0ba80626.png">
